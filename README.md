@@ -1,4 +1,8 @@
 ### : Chip8 emulator 👀 <br>
+CHIP-8 Interpreter, Assembler
+The syntax of the assembler and disassembler is based on the syntax described in Cowgod's Chip-8 
+Technical Reference v1.0, by Thomas P. Greene
+
 <div id="raw" align="center">
 
 <div>
