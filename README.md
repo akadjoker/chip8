@@ -1,5 +1,18 @@
 ### : Chip8 emulator 👀 <br>
-Keys 
+CHIP-8 Interpreter, Assembler
+The syntax of the assembler and disassembler is based on the syntax described in Cowgod's Chip-8 
+Technical Reference v1.0, by Thomas P. Greene
+https://chip-8.github.io/links/
+
+Keys :
+1 2 3 4
+q w e r
+a s d f
+z x c v
+
+keys (9 && 0) change emulator speed
+key f1 record screen to gift
+ 
 <div id="raw" align="center">
 
 <div>
